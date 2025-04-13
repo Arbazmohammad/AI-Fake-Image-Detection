@@ -1,4 +1,4 @@
-# Deep_fake_image_detection
+# AI-Fake-Image-Detection
 
 # Introduction
 
